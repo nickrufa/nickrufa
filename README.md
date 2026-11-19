@@ -1,16 +1,34 @@
-## Hi there 👋
+**Nicholas J. Rufa**
 
-<!--
-**nickrufa/nickrufa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+*WELCOME TO MY DIGITAL SPACE*
 
-Here are some ideas to get you started:
+ACTIVE SITES
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ - [501c3Lookup](https://501c3Lookup.org/)
+ - [AI Medical Compendium](https://www.aimedicalcompendium.com/)
+ - [Tinyous](https://tinyous.com/)
+ - [CME United](https://www.cmeunited.com/)
+ - [MedAffairsHQ](https://medaffairshq.com/)
+
+PAST & CURRENT PROJECTS / CLIENTS
+ - [cormedix.com](https://cormedix.com/)
+ - [deandonor.com](https://deandonor.com/)
+ - [medpagetoday.com](https://www.medpagetoday.com/)
+ - episodesHQ.com
+ - mediamelder.com
+ - meetingposters.com
+ - melintamedicalaffairs.com
+ - fallclinical.health
+ - panpleap.dermsquared.com
+
+SOCIALS
+ - [LinkedIn - nickrufa](https://www.linkedin.com/in/nickrufa/)
+ - [LinkedIn - 501c3lookup](https://www.linkedin.com/company/501c3lookup)
+ - [LinkedIn - cmeunited](https://www.linkedin.com/company/cme-united/)
+ - [LinkedIn - tinyous](https://www.linkedin.com/company/tinyous/)
+ - [X - nickrufa](https://x.com/nick_rufa)
+ - [X - CMEUnited](https://x.com/cmeunited)
+ - [X - tinyous](https://x.com/TinyousCOM)
+ - [Facebook - CMEUnited](https://www.facebook.com/cmeunited)
+ - [Facebook - 501c3Lokoup](https://www.facebook.com/501c3Lookup)
+ - [Facebook - tinyous](https://www.facebook.com/TinyousCOM)
