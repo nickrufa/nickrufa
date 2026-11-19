@@ -6,24 +6,24 @@ ACTIVE SITES
 
  - [501c3Lookup](https://501c3Lookup.org/)
  - [AI Medical Compendium](https://www.aimedicalcompendium.com/)
- - [Tinyous](https://tinyous.com/)
  - [CME United](https://www.cmeunited.com/)
  - [MedAffairsHQ](https://medaffairshq.com/)
+ - [Tinyous](https://tinyous.com/)
 
 PAST & CURRENT PROJECTS / CLIENTS
+ - [Babble & Bite Speech Therapy](https://babblebitespeech.com/)
  - [CorMedix Therapeutics](https://cormedix.com/)
+ - [Dean Donor](https://deandonor.com/)
  - IQVIA
- - Melinta Therapeutics
  - The Medicines Company
  - [MedpageToday.com](https://www.medpagetoday.com/)
- - [Babble & Bite Speech Therapy](https://babblebitespeech.com/)
- - [Dean Donor](https://deandonor.com/)
+ - Melinta Therapeutics
+ - panpleap.dermsquared.com
  - episodesHQ.com
+ - fallclinical.health
  - mediamelder.com
  - meetingposters.com
  - melintamedicalaffairs.com
- - fallclinical.health
- - panpleap.dermsquared.com
 
 SOCIALS
  - [LinkedIn - nickrufa](https://www.linkedin.com/in/nickrufa/)
