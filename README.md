@@ -1,6 +1,6 @@
-**Nicholas J. Rufa**
+## Nicholas J. Rufa
 
-*WELCOME TO MY DIGITAL SPACE*
+**WELCOME TO MY DIGITAL SPACE**
 
 ACTIVE SITES
 
@@ -11,9 +11,13 @@ ACTIVE SITES
  - [MedAffairsHQ](https://medaffairshq.com/)
 
 PAST & CURRENT PROJECTS / CLIENTS
- - [cormedix.com](https://cormedix.com/)
- - [deandonor.com](https://deandonor.com/)
- - [medpagetoday.com](https://www.medpagetoday.com/)
+ - [CorMedix Therapeutics](https://cormedix.com/)
+ - IQVIA
+ - Melinta Therapeutics
+ - The Medicines Company
+ - [MedpageToday.com](https://www.medpagetoday.com/)
+ - [Babble & Bite Speech Therapy](https://babblebitespeech.com/)
+ - [Dean Donor](https://deandonor.com/)
  - episodesHQ.com
  - mediamelder.com
  - meetingposters.com
